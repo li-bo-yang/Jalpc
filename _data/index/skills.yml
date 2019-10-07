@@ -1,6 +1,7 @@
 # skills section data
 
-label: Ability
+label: Skills
+desc: might not be accurate :/
 id : cs
-aspects: GitHub, Motivation, HTML5, ReactJS, Machine Learing, Python, Sleeping
-percentage: 100, 35, 65, 80, 70, 90, 50
+aspects: Python, Java, Math, Communication, Sleep
+percentage: 80, 69, 90, 95, 69
