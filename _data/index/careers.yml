@@ -15,4 +15,51 @@
   icon: fa-plus-square
   present: true
 
+- name:
+    detail: Cal Robobears
+    i18n: company_a
+  desc:
+    detail: Create 3-pounds battle robots to compete in the annual battlebot competition hosed by Cal Robobears
+    i18n: company_a_desc
+  date:
+    detail: Aug. 2019
+    i18n: company_a_date
+  job:
+    detail: Member
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: Berkeley CSSA
+    i18n: company_a
+  desc:
+    detail: Responsible for reaching out to companies for sponsorships of various events as well as public relation maintainance
+    i18n: company_a_desc
+  date:
+    detail: Aug. 2019
+    i18n: company_a_date
+  job:
+    detail: Member of the Dept. of Public Relations 
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: The Steel Dragons  
+    i18n: company_a
+  desc:
+    detail: Led to design and build robots to compete in the annual First Robotics Competition
+    i18n: company_a_desc
+  date:
+    detail: Aug. 2017
+    i18n: company_a_date
+  job:
+    detail: Captain
+    i18n: company_a_job
+  icon: fa-plus-square
+
+
+
+
 

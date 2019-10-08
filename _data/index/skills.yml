@@ -1,7 +1,7 @@
 # skills section data
 
 label: Skills
-desc: might not be accurate :/
+desc: I guess I could handle all three sides of the "Study-Social-Sleep" triangle !?
 id : cs
 aspects: Python, Java, Math, Communication, Sleep
 percentage: 80, 69, 90, 95, 69

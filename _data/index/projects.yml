@@ -7,3 +7,9 @@
   url: https://github.com/li-bo-yang/Space-Invader
   img: /static/assets/img/landing/si.png
   desc: This is a Python-based space invader game using the turtle library feature. I am still adding elements to the game to make it more interesting.
+
+- name: Peronal Website
+  i18n: google
+  url: https://li-bo-yang.github.io/homepage
+  img: /static/assets/img/landing/website.png
+  desc: The very website which you're browsing right now :)
